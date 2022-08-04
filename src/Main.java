@@ -53,7 +53,7 @@ public class Main {
        System.out.print("Денис теперь получает " + NewDenis + " рублей.");
        System.out.println("Годовой доход вырос на " + differenceDenis + " рублей");
        System.out.print("Кристина теперь получает " + NewKris + " рублей.");
-       System.out.println("Годовой доход вырос на " + differenceKris + " рублей")
+       System.out.println("Годовой доход вырос на " + differenceKris + " рублей");
 
 
 
